@@ -1,1 +1,1 @@
-En este repositorio estoy subiendo mis practicas en Java
+En este repositorio, estare subiendo lo que aprendo sobre Java
